@@ -18,7 +18,9 @@
     {
       "hash": "e995e6ece62867f8ad83b8d3e36558053e81a7e54342582de099d7a356241660",
       "expire": "2027-05-01",
-      "note": "lee"
+      "note": "lee",
+      "device": "42ca3528474c769b1ec2ebabd52c6a68da6cd6a95d8e4b85d6085e6198775f66",
+      "activated": "2026-10-31"
     }
   ]
 }
