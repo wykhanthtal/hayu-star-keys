@@ -35,7 +35,9 @@
     {
       "hash": "2991b48766cc8ca4c3c2621dea6b7247a7d2934550e436823112cf89060f7e2a",
       "expire": "2026-11-12",
-      "note": "khant"
+      "note": "khant",
+      "device": "88f6009b6894b4a6becc309109558d31eaaf363f69b83187d831d6720ec37e2e",
+      "activated": "2026-10-31"
     }
   ]
 }
