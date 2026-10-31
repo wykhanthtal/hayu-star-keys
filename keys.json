@@ -32,7 +32,9 @@
     {
       "hash": "34423fa10768a675bce648bfdfd1d61607fc3657ba39d48cfcee5d95c30385f3",
       "expire": "2026-11-10",
-      "note": "ngatok"
+      "note": "ngatok",
+      "device": "6285e4a09c7450417536fcf79b0ac6fee9c661a44982679035e1d3a8bd443b3c",
+      "activated": "2026-10-31"
     },
     {
       "hash": "2991b48766cc8ca4c3c2621dea6b7247a7d2934550e436823112cf89060f7e2a",
