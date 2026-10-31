@@ -46,7 +46,9 @@
     {
       "hash": "b7db1ca494f228b829ea3e1a33bff556a30431cd5aa10b1959ba9f51dd9abb05",
       "expire": "2026-11-12",
-      "note": "sone"
+      "note": "sone",
+      "device": "4a568afc538d5edf32a1ccf43c714fa8bed6122010fb3e165fa427e3f1bc7f22",
+      "activated": "2026-10-31"
     }
   ]
 }
