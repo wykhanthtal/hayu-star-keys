@@ -42,6 +42,11 @@
       "note": "khant",
       "device": "88f6009b6894b4a6becc309109558d31eaaf363f69b83187d831d6720ec37e2e",
       "activated": "2026-10-31"
+    },
+    {
+      "hash": "b7db1ca494f228b829ea3e1a33bff556a30431cd5aa10b1959ba9f51dd9abb05",
+      "expire": "2026-11-12",
+      "note": "sone"
     }
   ]
 }
